@@ -1,4 +1,10 @@
 # EcoGuardian-Battery
+![WhatsApp Image 2024-06-29 at 5 00 05 PM](https://github.com/thakursumi498/EcoGuardian-Battery/assets/174183822/5c402b61-d990-43e0-913a-4520581f6bc3)
+
+
+
+
+
 
 The disposal of electric vehicle (EV) batteries poses significant environmental and logistical challenges. Here’s an overview of the key issues and potential solutions:
 
@@ -21,6 +27,8 @@ Improving Recycling Processes
 Advancements in recycling technology can improve the efficiency and cost-effectiveness of extracting valuable materials from used batteries. Companies and research institutions are working on more efficient methods for disassembly, material recovery, and reuse.
 Battery Second Life
 
+![Screenshot (414)](https://github.com/thakursumi498/EcoGuardian-Battery/assets/174183822/dd08603a-1f97-4566-9e4b-ec5c6e025cef)
+
 Repurposing used EV batteries for secondary applications, such as stationary energy storage, can extend their lifecycle. This not only reduces waste but also maximizes the utility of the resources used in battery production.
 Regulatory Frameworks
 
@@ -40,6 +48,9 @@ Partnerships with Recycling Firms
 Collaborate with companies specializing in battery recycling to ensure proper disposal and material recovery. These partnerships can also help in understanding the latest advancements and best practices in recycling technology.
 Developing Disposal Guidelines
 
+![Screenshot (416)](https://github.com/thakursumi498/EcoGuardian-Battery/assets/174183822/843da748-c4e4-4d96-9c8f-46fa4fb84ac5)
+
+
 Create easy-to-follow guidelines for users on how to dispose of their EV batteries. This can include information on local recycling facilities, take-back programs, and the steps involved in safe disposal.
 Promoting Second-Life Applications
 
@@ -50,4 +61,4 @@ Work with policymakers to advocate for regulations that support sustainable batt
 By addressing these key areas, the EcoGuardian Battery project can contribute to solving the EV battery disposal problem and promote a more sustainable approach to battery lifecycle management.
 
 
-![WhatsApp Image 2024-06-29 at 5 00 05 PM](https://github.com/thakursumi498/EcoGuardian-Battery/assets/174183822/5c402b61-d990-43e0-913a-4520581f6bc3)
+
