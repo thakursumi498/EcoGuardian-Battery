@@ -48,3 +48,6 @@ Advocating for Policy Changes
 
 Work with policymakers to advocate for regulations that support sustainable battery disposal and recycling practices. This can include incentives for manufacturers and consumers to participate in recycling programs.
 By addressing these key areas, the EcoGuardian Battery project can contribute to solving the EV battery disposal problem and promote a more sustainable approach to battery lifecycle management.
+
+
+![WhatsApp Image 2024-06-29 at 5 00 05 PM](https://github.com/thakursumi498/EcoGuardian-Battery/assets/174183822/5c402b61-d990-43e0-913a-4520581f6bc3)
