@@ -115,18 +115,18 @@ header nav ul li a:hover {
     white-space: nowrap;
     width: 100%;
     text-align: center;
-    animation: moveText 45s linear infinite;
+    /* animation: moveText 45s linear infinite; */
     background-size: cover;
 }
 
-@keyframes moveText {
+/* @keyframes moveText {
     0% {
         transform: translateX(100%);
     }
     100% {
         transform: translateX(-100%);
     }
-}
+} */
 
 .home .btn {
     /* background-color: #f1c40f; */
